@@ -1,11 +1,8 @@
-### Hi there 👋
+### Hi there 👋,
+my Name is **Privt**, at the moment im learning JS and PHP.
 
-
-**privt00/privt00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on tfc-plex
-- 📫 How to reach me: discord: tfcprivt
+- 🔭 I’m contributer on skyportlabs/panel
+- 📫 reach me on discord: tfcprivt
+- 📨 send me an email: privt@tfcs.site
 <img src="https://komarev.com/ghpvc/?username=privt00&color=blue">
 
